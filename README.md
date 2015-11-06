@@ -9,7 +9,7 @@ Only Emacs 24 supported.
 
 ```bash
 $ git clone https://github.com/kayano/emacs.d.git ~/.emacs.d
-$ cd .emacs.d
+$ cd ~/.emacs.d
 $ git submodule sync
 $ git submodule update --init --recursive
 ```
